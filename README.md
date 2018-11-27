@@ -1,4 +1,4 @@
-                                         Tic-Tac-Toe-Python-With-MinMax-Algorithm
+                                         Tic-Tac-Toe-Python-With-MiniMax-Algorithm
 An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game
 
                                           What is Minimax?
